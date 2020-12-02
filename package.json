@@ -1,0 +1,13 @@
+{
+  "name": "node-watermark",
+  "version": "1.0.0",
+  "description": "learn node-js watermark",
+  "main": "index.js",
+  "author": "Marianna",
+  "license": "MIT",
+  "dependencies": {
+    "all": "^0.0.0",
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
