@@ -6,7 +6,7 @@
   "author": "Marianna",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "6.5.0",
+    "inquirer": "7.0.5",
     "jimp": "0.6.4"
   }
 }
